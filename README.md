@@ -21,7 +21,7 @@ New developers will often be asked to get up to speed on a project rapidly. It i
 
 ## Notes: 
 * I see a few things in this code such as inheratances one example being with the Computer class inheriting the player class.
-* I also see a few for loops
+* I also see a few for loops.
 * I see some if statements.
 * Somethings I ever really saw before was the pane and nodes.
 * I also never saw the "super" function.
